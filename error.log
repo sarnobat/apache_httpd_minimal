@@ -181,3 +181,17 @@ apache2: Could not reliably determine the server's fully qualified domain name, 
 [Fri Jul 26 21:30:17 2013] [info] Server built: Jul 12 2013 13:38:21
 [Fri Jul 26 21:30:17 2013] [debug] worker.c(1757): AcceptMutex: sysvsem (default: sysvsem)
 [Fri Jul 26 21:30:19 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:34:02 2013] [notice] SIGHUP received.  Attempting to restart
+apache2: Could not open configuration file /home/sarnobat/trash/apache_minimal/here.conf: No such file or directory
+[Fri Jul 26 21:34:37 2013] [warn] pid file /home/sarnobat/trash/apache_minimal/http.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jul 26 21:34:37 2013] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Fri Jul 26 21:34:37 2013] [info] Server built: Jul 12 2013 13:38:21
+[Fri Jul 26 21:34:37 2013] [debug] worker.c(1757): AcceptMutex: sysvsem (default: sysvsem)
+[Fri Jul 26 21:34:39 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:35:23 2013] [notice] SIGHUP received.  Attempting to restart
+apache2: Could not open configuration file /home/sarnobat/trash/apache_minimal/here.conf: No such file or directory
+[Fri Jul 26 21:36:33 2013] [warn] pid file /home/sarnobat/trash/apache_minimal/http.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jul 26 21:36:33 2013] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Fri Jul 26 21:36:33 2013] [info] Server built: Jul 12 2013 13:38:21
+[Fri Jul 26 21:36:33 2013] [debug] worker.c(1757): AcceptMutex: sysvsem (default: sysvsem)
+[Fri Jul 26 21:36:35 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico

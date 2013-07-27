@@ -1,11 +1,7 @@
-#apache2 -f /home/sarnobat/trash/apache_minimal/httpd.conf -c "DocumentRoot $PWD" -k restar
-#touch here.conf
-#apache2 -f <<EOF -c "DocumentRoot $PWD" -k restart; echo "Hl"
-#DocumentRoot "${CWD}"
-cat << EOF > here.conf; apache2 -f $PWD/here.conf  -c "DocumentRoot $PWD" -k restart;
-LockFile /home/sarnobat/trash/apache_minimal/accept.lock
+cat << EOF > here.conf; apache2 -f $PWD/here.conf  -c "DocumentRoot $PWD" -k restart; #sleep 1; rm here.conf;
+LockFile $PWD/accept.lock
 
-PidFile /home/sarnobat/trash/apache_minimal/http.pid
+PidFile $PWD/http.pid
 
 Timeout 300
 
@@ -52,7 +48,7 @@ DefaultType None
 
 HostnameLookups Off
 
-ErrorLog /home/sarnobat/trash/apache_minimal/error.log
+ErrorLog $PWD/error.log
 
 LogLevel debug
 
