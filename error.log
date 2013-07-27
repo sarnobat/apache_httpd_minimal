@@ -143,3 +143,41 @@ apache2: Could not reliably determine the server's fully qualified domain name, 
 [Fri Jul 26 20:11:17 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
 [Fri Jul 26 20:11:17 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
 [Fri Jul 26 20:11:18 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 20:58:27 2013] [notice] SIGHUP received.  Attempting to restart
+apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName
+[Fri Jul 26 20:58:27 2013] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Fri Jul 26 20:58:27 2013] [info] Server built: Jul 12 2013 13:38:21
+[Fri Jul 26 20:58:27 2013] [debug] worker.c(1757): AcceptMutex: sysvsem (default: sysvsem)
+[Fri Jul 26 20:58:34 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 20:58:35 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 20:58:35 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:16:31 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:16:32 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:16:35 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:16:36 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:20:18 2013] [notice] SIGHUP received.  Attempting to restart
+apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName
+[Fri Jul 26 21:20:18 2013] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Fri Jul 26 21:20:18 2013] [info] Server built: Jul 12 2013 13:38:21
+[Fri Jul 26 21:20:18 2013] [debug] worker.c(1757): AcceptMutex: sysvsem (default: sysvsem)
+[Fri Jul 26 21:20:47 2013] [notice] SIGHUP received.  Attempting to restart
+apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName
+[Fri Jul 26 21:20:47 2013] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Fri Jul 26 21:20:47 2013] [info] Server built: Jul 12 2013 13:38:21
+[Fri Jul 26 21:20:47 2013] [debug] worker.c(1757): AcceptMutex: sysvsem (default: sysvsem)
+[Fri Jul 26 21:20:50 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:20:50 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:21:00 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:29:08 2013] [notice] SIGHUP received.  Attempting to restart
+apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1 for ServerName
+[Fri Jul 26 21:29:08 2013] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Fri Jul 26 21:29:08 2013] [info] Server built: Jul 12 2013 13:38:21
+[Fri Jul 26 21:29:08 2013] [debug] worker.c(1757): AcceptMutex: sysvsem (default: sysvsem)
+[Fri Jul 26 21:29:11 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:29:53 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:29:53 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
+[Fri Jul 26 21:30:17 2013] [warn] pid file /home/sarnobat/trash/apache_minimal/http.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Jul 26 21:30:17 2013] [notice] Apache/2.2.22 (Ubuntu) configured -- resuming normal operations
+[Fri Jul 26 21:30:17 2013] [info] Server built: Jul 12 2013 13:38:21
+[Fri Jul 26 21:30:17 2013] [debug] worker.c(1757): AcceptMutex: sysvsem (default: sysvsem)
+[Fri Jul 26 21:30:19 2013] [error] [client 192.168.1.9] File does not exist: /home/sarnobat/trash/apache_minimal/favicon.ico
