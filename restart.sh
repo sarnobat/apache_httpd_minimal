@@ -1,0 +1,1 @@
+apache2 -f /home/sarnobat/trash/apache_minimal/httpd.conf -k restart
